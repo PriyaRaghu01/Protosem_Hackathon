@@ -1,0 +1,7 @@
+face_recognition
+opencv-python
+scapy
+numpy
+pandas
+schedule
+scapy.all
